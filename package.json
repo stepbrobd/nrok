@@ -65,7 +65,7 @@
   "engines": {
     "node": ">=24"
   },
-  "packageManager": "yarn@4.6.0",
+  "packageManager": "yarn@4.18.0",
   "resolutions": {
     "is-core-module": "npm:@nolyfill/is-core-module@^1",
     "safer-buffer": "npm:@nolyfill/safer-buffer@^1"
